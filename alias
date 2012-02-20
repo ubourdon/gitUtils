@@ -1,0 +1,8 @@
+#Alias maven
+alias mci='mvn clean install -T4'
+alias mcit='mvn clean install -T4 -Dmaven.test.skip'
+
+#Alias git
+alias glog='git log --color --oneline --decorate --graph'
+alias gst='git status'
+alias gdiff='git diff --color'
