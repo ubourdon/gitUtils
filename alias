@@ -8,3 +8,4 @@ alias gst='git status'
 alias gdiff='git diff --color'
 alias gco='git checkout'
 alias gshow='git show --name-only'
+alias gstandup='git log --since yesterday --oneline --author' #rajouter l'auteur à la suite de la commande
